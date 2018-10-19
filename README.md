@@ -1,5 +1,7 @@
 # golang-soundcloud
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/golang-soundcloud.svg)](https://www.guardrails.io)
+
 A (_incomplete_) [SoundCloud](http://soundcloud.com) [API](http://developers.soundcloud.com) wrapper.
 
 ## Features
